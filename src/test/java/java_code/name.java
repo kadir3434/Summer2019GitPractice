@@ -6,6 +6,7 @@ public class name {
         int name;
         int lastName;
         String address;
+        String city;
 
 
     }
