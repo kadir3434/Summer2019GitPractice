@@ -5,7 +5,7 @@ public class name {
         private int name;
         private int lastName;
         private String address;
-        String city;
+        private String city;
 
 
 }
