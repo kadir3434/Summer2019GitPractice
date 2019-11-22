@@ -2,10 +2,10 @@ package java_code;
 
 public class name {
     public static void main(String[] args) {
-        int age;
-        int name;
-        int lastName;
-        String address;
+        private int age;
+        private int name;
+        private int lastName;
+        private String address;
         String city;
 
 
