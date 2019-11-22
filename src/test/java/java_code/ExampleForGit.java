@@ -1,7 +1,16 @@
 package java_code;
 
-public class ExampleForGit {
-    public static void main(String[] args) {
+import utilities.ClassForInterface;
 
+public class ExampleForGit implements ClassForInterface {
+
+
+    public static void main(String[] args) {
+        ExampleForGit say = new ExampleForGit();
+        say.SayHello();
+    }
+
+    public void SayHello() {
+        System.out.println("Hello");
     }
 }
