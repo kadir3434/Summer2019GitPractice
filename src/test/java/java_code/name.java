@@ -5,6 +5,7 @@ public class name {
         int age;
         int name;
         int lastName;
+        String address;
 
 
     }
