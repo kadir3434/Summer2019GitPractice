@@ -3,4 +3,4 @@ yellow
 black
 red
 black
-purple
+navy blue
