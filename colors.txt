@@ -5,3 +5,4 @@ red
 black
 navy blue
 purple
+white
