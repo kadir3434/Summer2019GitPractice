@@ -4,3 +4,4 @@ black
 red
 black
 navy blue
+white
