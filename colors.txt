@@ -4,4 +4,3 @@ black
 red
 black
 purple
-pink
