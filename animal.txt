@@ -1,6 +1,7 @@
 Dog
 Cat
 Tiger
-lion
+Lion
 Rabbit
 wolf
+Elephant
